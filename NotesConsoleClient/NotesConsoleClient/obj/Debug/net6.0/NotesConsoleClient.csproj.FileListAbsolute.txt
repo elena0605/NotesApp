@@ -1,0 +1,17 @@
+C:\Users\bojan\Desktop\NotesConsoleClient\NotesConsoleClient\obj\Debug\net6.0\NotesConsoleClient.csproj.AssemblyReference.cache
+C:\Users\bojan\Desktop\NotesConsoleClient\NotesConsoleClient\obj\Debug\net6.0\NotesConsoleClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bojan\Desktop\NotesConsoleClient\NotesConsoleClient\obj\Debug\net6.0\NotesConsoleClient.AssemblyInfoInputs.cache
+C:\Users\bojan\Desktop\NotesConsoleClient\NotesConsoleClient\obj\Debug\net6.0\NotesConsoleClient.AssemblyInfo.cs
+C:\Users\bojan\Desktop\NotesConsoleClient\NotesConsoleClient\obj\Debug\net6.0\NotesConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\bojan\Desktop\NotesConsoleClient\NotesConsoleClient\bin\Debug\net6.0\NotesConsoleClient.exe
+C:\Users\bojan\Desktop\NotesConsoleClient\NotesConsoleClient\bin\Debug\net6.0\NotesConsoleClient.deps.json
+C:\Users\bojan\Desktop\NotesConsoleClient\NotesConsoleClient\bin\Debug\net6.0\NotesConsoleClient.runtimeconfig.json
+C:\Users\bojan\Desktop\NotesConsoleClient\NotesConsoleClient\bin\Debug\net6.0\NotesConsoleClient.dll
+C:\Users\bojan\Desktop\NotesConsoleClient\NotesConsoleClient\bin\Debug\net6.0\NotesConsoleClient.pdb
+C:\Users\bojan\Desktop\NotesConsoleClient\NotesConsoleClient\obj\Debug\net6.0\NotesConsoleClient.dll
+C:\Users\bojan\Desktop\NotesConsoleClient\NotesConsoleClient\obj\Debug\net6.0\refint\NotesConsoleClient.dll
+C:\Users\bojan\Desktop\NotesConsoleClient\NotesConsoleClient\obj\Debug\net6.0\NotesConsoleClient.pdb
+C:\Users\bojan\Desktop\NotesConsoleClient\NotesConsoleClient\obj\Debug\net6.0\NotesConsoleClient.genruntimeconfig.cache
+C:\Users\bojan\Desktop\NotesConsoleClient\NotesConsoleClient\obj\Debug\net6.0\ref\NotesConsoleClient.dll
+C:\Users\bojan\Desktop\NotesConsoleClient\NotesConsoleClient\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\bojan\Desktop\NotesConsoleClient\NotesConsoleClient\obj\Debug\net6.0\NotesConsoleClient.csproj.CopyComplete

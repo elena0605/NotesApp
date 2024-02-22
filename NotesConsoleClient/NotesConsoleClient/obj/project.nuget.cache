@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wJ2HV8GQp7h10j9IxxOhQibIYwGSeQ3FtwYGZSnpAqJJ5V+GiYJLdtzBBnQvsilg2RqFnIdXZ3Dspa3lBRCz6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bojan\\Desktop\\NotesConsoleClient\\NotesConsoleClient\\NotesConsoleClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bojan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

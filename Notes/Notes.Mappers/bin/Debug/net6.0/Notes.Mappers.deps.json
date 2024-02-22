@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Notes.Mappers/1.0.0": {
+        "dependencies": {
+          "Notes.DTOs": "1.0.0",
+          "Notes.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Notes.Mappers.dll": {}
+        }
+      },
+      "Notes.Domain/1.0.0": {
+        "runtime": {
+          "Notes.Domain.dll": {}
+        }
+      },
+      "Notes.DTOs/1.0.0": {
+        "dependencies": {
+          "Notes.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Notes.DTOs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Notes.Mappers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Notes.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Notes.DTOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
